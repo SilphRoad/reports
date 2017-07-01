@@ -1,4 +1,4 @@
-Your issue may already be reported! Please search on the [issue track](../) before creating one.  
+Your issue may already be reported! Please search on the [issue tracker](../) before creating one.  
 
 **Note: for support questions, please use [/r/TheSilphRoad](https://reddit.com/r/thesilphroad)**. This repository's issues are reserved for feature requests and bug reports.
 
@@ -6,21 +6,12 @@ Your issue may already be reported! Please search on the [issue track](../) befo
   - [ ] bug report
   - [ ] feature request
 
-
-## **Do you want to request a *feature* or report a *bug*?**
-
-
-
-## **What is the current behavior?**
-
-
-
 ## **If the current behavior is a bug, please provide the steps to reproduce and if possible a minimal demo of the problem**
 Try to include screenshots, or any other material to help us understand how to reproduce
 
 
 
-## **What is the expected behavior?**
+## **What is the expected behavior or new feature?**
 
 
 
@@ -28,7 +19,7 @@ Try to include screenshots, or any other material to help us understand how to r
 
 
 
-## **Please tell us about your environment:**
+## **Please tell us about your environment, for bugs:**
 
 <!-- FILL IN ALL ANSWERS TO BETWEEN THE ":" and "<!--" -->
 
@@ -38,4 +29,5 @@ Try to include screenshots, or any other material to help us understand how to r
 
 ## **Other information**
 (e.g. detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context)
+
 
