@@ -1,3 +1,9 @@
+---
+name: Feature Request
+about: Submit a request for a new feature or share an idea how to improve something.
+
+---
+
 Your issue may already be reported! Please search on the [issue tracker](../) before creating one.  
 
 **Note: for support questions, please use [/r/TheSilphRoad](https://reddit.com/r/thesilphroad)**. This repository's issues are reserved for feature requests and bug reports.
